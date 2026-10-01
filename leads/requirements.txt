@@ -1,0 +1,3 @@
+requests>=2.31
+# Seulement pour l'option --crm (écriture directe dans PostgreSQL / Supabase)
+psycopg[binary]>=3.1
